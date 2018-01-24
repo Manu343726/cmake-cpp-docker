@@ -1,6 +1,6 @@
 FROM walberla/buildenv-ubuntu-clang:3.9
 
-MAINTAINER Nerijus Arlauskas <nercury@gmail.com>
+MAINTAINER Manuel Sanchez <Manu343726@gmail.com>
 
 # remove cmake
 
